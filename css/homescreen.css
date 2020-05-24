@@ -1,0 +1,41 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5
+}
+.container-fluid{
+  padding: 5% 15%;
+  background-color:  #dd2c00;
+}
+.navbar{
+  padding-left: 0;
+  font-size: 1rem;
+}
+
+.navanime:hover{
+  border: 1px solid white;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+}
+.homescreen{
+  color: white;
+}
+
+.homescreenpadding{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.buttonsgadgets{
+  margin: 5px;
+}
+h1{
+  line-height: 1.5;
+}
+.gadget-image{
+  width: 100%;
+  padding-top: 10%;
+}
+
+.movedown{
+  margin: 5%;
+}
